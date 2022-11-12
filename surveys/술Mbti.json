@@ -1,0 +1,250 @@
+{
+  "surveyTitle": "술Mbti",
+  "questions": [
+    {
+      "id": 1,
+      "question": "오늘은 어디서 마시고 싶어?",
+      "selections": [
+        {
+          "description": "오랜만에 마시는 술인데 시끌벅적 놀아야지",
+          "weight": "E"
+        },
+        {
+          "description": "단골가게에서 조용히 마시고 싶어",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "누구와 마시고 싶은데?",
+      "selections": [
+        {
+          "description": "베프랑 마시는게 최고지",
+          "weight": "E"
+        },
+        {
+          "description": "오랜만에 못봤던 친구들 다 부르자!",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "이번 주말에는 뭐하고 싶어?",
+      "selections": [
+        {
+          "description": "평소 자주 어울려 놀던 친구들한테 연락해봐야지",
+          "weight": "E"
+        },
+        {
+          "description": "주말에는 나만의 휴식시간이 필요해",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "내일 지구가 멸망한다면 오늘 넌 뭐하고 싶어?",
+      "selections": [
+        {
+          "description": "난 너와 술로 하루를 달려야지",
+          "weight": "E"
+        },
+        {
+          "description": "무슨 소리야.. 그런 일은 일어날 수 없어",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "내일 한강에서 치맥은 어때?",
+      "selections": [
+        {
+          "description": "사람이 너무 많으면 어쩌지? 내일 비가 오는지 봐야겠다 올만에 보드게임도 해봐야지",
+          "weight": "E"
+        },
+        {
+          "description": "치맥먹으려면 돗자리 필요하겠네 낼 거기서 봐",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "술약속이 있는데 상사가 갑작스럽게 일을 준다면?",
+      "selections": [
+        {
+          "description": "일단 이 일을 끝내야 조금 늦더라도 약속을 갈 수 있어",
+          "weight": "E"
+        },
+        {
+          "description": "이 망할 놈의 회사 내가 얼른 승진해서 칼퇴하고 만다",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "비가 많이 와서 혼술 했어",
+      "selections": [
+        {
+          "description": "요새 또 우울한 일 있구나. 연락하지 그랬어",
+          "weight": "E"
+        },
+        {
+          "description": "혼술 안주는 뭘로? 비오는 날엔 파전인데",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "슬픔을 나누면?",
+      "selections": [
+        {
+          "description": "반이 된다! 슬픔은 공유해야지",
+          "weight": "E"
+        },
+        {
+          "description": "둘이 된다! 왜냐면 슬픈 사람이 두명이 되기 때문이지",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "요즘 무슨 고민있어? 내가 고민들어줄게 술마시러 가자!",
+      "selections": [
+        {
+          "description": "헐.. 고마워.. 진짜 감동이야ㅠㅠ",
+          "weight": "E"
+        },
+        {
+          "description": "응 고마워!(내가 힘들어 보이나?)",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "야 오랜만이다! 조만간 술한잔 하자",
+      "selections": [
+        {
+          "description": "언제 어디서 만날까? 약속 잡아두자",
+          "weight": "E"
+        },
+        {
+          "description": "그래! 연락줘 어떻게 될지 모르니까 그때가서 정하자!",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "야! 내일 비 올 수도 있대 한강 갈꺼야?",
+      "selections": [
+        {
+          "description": "비오면 편의점에서 우산 사야겠다",
+          "weight": "E"
+        },
+        {
+          "description": "예상못한 변수는 싫어 실내로 계획바꾸자 내가 찾아서 단톡방에 올릴게",
+          "weight": "E"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "오늘은 월급날! 나는..",
+      "selections": [
+        {
+          "description": "사고 싶었던 것들 먼저 결제한 뒤, 생활비를 계획한다.",
+          "weight": "E"
+        },
+        {
+          "description": "일단 생활비 먼저 빼두고, 사고 싶었던 것들을 산다.",
+          "weight": "E"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "enfj": {
+      "title": "술주정 컨트롤러",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/enfj.jpg?raw=true"
+    },
+    "enfp": {
+      "title": "폭풍 칭찬러",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/enfp.jpg?raw=true"
+    },
+    "entj":  {
+      "title": "알코올 기억상실증",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/entj.jpg?raw=true"
+    },
+    "entp": {
+      "title": "끝까지 달리는거야",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/entp.jpg?raw=true"
+    },
+    "esfj":  {
+      "title": "편의점 전용 지갑",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/esfj.jpg?raw=true"
+    },
+    "esfp": {
+      "title": "흥 부자 핵인싸",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/esfp.jpg?raw=true"
+    },
+    "estj":  {
+      "title": "계산만 하는 로봇",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/estj.jpg?raw=true"
+    },
+    "infj": {
+      "title": "일방통행 대화맨",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/infj.jpg?raw=true"
+    },
+    "infp":  {
+      "title": "애정표현 사랑꾼",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/infp.jpg?raw=true"
+    },
+    "intj": {
+      "title": "시끄러운 곳은 놉",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/intj.jpg?raw=true"
+    },
+    "intp":  {
+      "title": "꾸벅꾸벅 잠자는 공주",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/intp.jpg?raw=true"
+    },
+    "isfj": {
+      "title": "내가 오늘 일일 경찰",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/isfj.jpg?raw=true"
+    },
+    "isfp":  {
+      "title": "친절한 프로 게을러",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/isfp.jpg?raw=true"
+    },
+    "istj": {
+      "title": "연락두절 신데렐라",
+      "description": "",
+      "imageUrl":  "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/istj.jpg?raw=true"
+    },
+    "istp": {
+      "title": "프로 판단러",
+      "description":"",
+      "imageUrl": "https://github.com/OneBlockCompany/SurveyPangAssets/blob/master/MBTI_image/istp.jpg?raw=true"
+    }
+  }
+}
