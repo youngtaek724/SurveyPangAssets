@@ -7,11 +7,11 @@
       "selections": [
         {
           "description": "오랜만에 마시는 술인데 시끌벅적 놀아야지",
-          "weight": "E"
+          "weight": "e"
         },
         {
           "description": "단골가게에서 조용히 마시고 싶어",
-          "weight": "E"
+          "weight": "i"
         }
       ]
     },
@@ -21,11 +21,11 @@
       "selections": [
         {
           "description": "베프랑 마시는게 최고지",
-          "weight": "E"
+          "weight": "s"
         },
         {
           "description": "오랜만에 못봤던 친구들 다 부르자!",
-          "weight": "E"
+          "weight": "t"
         }
       ]
     },
@@ -35,11 +35,11 @@
       "selections": [
         {
           "description": "평소 자주 어울려 놀던 친구들한테 연락해봐야지",
-          "weight": "E"
+          "weight": "t"
         },
         {
           "description": "주말에는 나만의 휴식시간이 필요해",
-          "weight": "E"
+          "weight": "e"
         }
       ]
     },
@@ -49,11 +49,11 @@
       "selections": [
         {
           "description": "난 너와 술로 하루를 달려야지",
-          "weight": "E"
+          "weight": "j"
         },
         {
           "description": "무슨 소리야.. 그런 일은 일어날 수 없어",
-          "weight": "E"
+          "weight": "e"
         }
       ]
     },
@@ -63,11 +63,11 @@
       "selections": [
         {
           "description": "사람이 너무 많으면 어쩌지? 내일 비가 오는지 봐야겠다 올만에 보드게임도 해봐야지",
-          "weight": "E"
+          "weight": "f"
         },
         {
           "description": "치맥먹으려면 돗자리 필요하겠네 낼 거기서 봐",
-          "weight": "E"
+          "weight": "s"
         }
       ]
     },
@@ -77,11 +77,11 @@
       "selections": [
         {
           "description": "일단 이 일을 끝내야 조금 늦더라도 약속을 갈 수 있어",
-          "weight": "E"
+          "weight": "e"
         },
         {
           "description": "이 망할 놈의 회사 내가 얼른 승진해서 칼퇴하고 만다",
-          "weight": "E"
+          "weight": "e"
         }
       ]
     },
@@ -91,11 +91,11 @@
       "selections": [
         {
           "description": "요새 또 우울한 일 있구나. 연락하지 그랬어",
-          "weight": "E"
+          "weight": "e"
         },
         {
           "description": "혼술 안주는 뭘로? 비오는 날엔 파전인데",
-          "weight": "E"
+          "weight": "f"
         }
       ]
     },
@@ -105,11 +105,11 @@
       "selections": [
         {
           "description": "반이 된다! 슬픔은 공유해야지",
-          "weight": "E"
+          "weight": "f"
         },
         {
           "description": "둘이 된다! 왜냐면 슬픈 사람이 두명이 되기 때문이지",
-          "weight": "E"
+          "weight": "e"
         }
       ]
     },
@@ -119,11 +119,11 @@
       "selections": [
         {
           "description": "헐.. 고마워.. 진짜 감동이야ㅠㅠ",
-          "weight": "E"
+          "weight": "s"
         },
         {
           "description": "응 고마워!(내가 힘들어 보이나?)",
-          "weight": "E"
+          "weight": "i"
         }
       ]
     },
@@ -133,11 +133,11 @@
       "selections": [
         {
           "description": "언제 어디서 만날까? 약속 잡아두자",
-          "weight": "E"
+          "weight": "i"
         },
         {
           "description": "그래! 연락줘 어떻게 될지 모르니까 그때가서 정하자!",
-          "weight": "E"
+          "weight": "j"
         }
       ]
     },
@@ -147,11 +147,11 @@
       "selections": [
         {
           "description": "비오면 편의점에서 우산 사야겠다",
-          "weight": "E"
+          "weight": "s"
         },
         {
           "description": "예상못한 변수는 싫어 실내로 계획바꾸자 내가 찾아서 단톡방에 올릴게",
-          "weight": "E"
+          "weight": "t"
         }
       ]
     },
@@ -161,11 +161,11 @@
       "selections": [
         {
           "description": "사고 싶었던 것들 먼저 결제한 뒤, 생활비를 계획한다.",
-          "weight": "E"
+          "weight": "i"
         },
         {
           "description": "일단 생활비 먼저 빼두고, 사고 싶었던 것들을 산다.",
-          "weight": "E"
+          "weight": "f"
         }
       ]
     }
